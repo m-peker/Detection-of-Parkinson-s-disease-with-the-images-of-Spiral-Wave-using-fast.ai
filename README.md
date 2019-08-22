@@ -2,4 +2,4 @@
 
 The diagnosis of Parkinson's disease in hand-drawn images of sperm and waves with fast.ai and deep learning techniques.
 
-Keyword: Detection of Parkinson's Disease, Deep Learning Techniques, fast.ai library
+Keyword: Detection of Parkinson's Disease, Deep Learning Techniques, fast.ai library, Google Colab
